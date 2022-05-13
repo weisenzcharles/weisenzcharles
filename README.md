@@ -6,7 +6,7 @@
 
 - 💻 Full stack web developer for 10+ years
 - 😄 Father and Husband
-- 📫 You can reach me at [![Gmail](https://img.shields.io/badge/-tonyqus@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:weisenzcharles@gmail.com)
+- 📫 You can reach me at [![Gmail](https://img.shields.io/badge/-weisenzcharles@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:weisenzcharles@gmail.com)
 
 ### Primary Maintainer of Open Source Projects
 
