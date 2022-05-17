@@ -3,6 +3,7 @@
 ### About Me
 
 [![Github](https://img.shields.io/badge/-GithubStats-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/weisenzcharles)
+[![Gmail](https://img.shields.io/badge/-weisenzcharles@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:weisenzcharles@gmail.com)
 
 - 💻 Full stack web developer for 10+ years
 - 😄 Father and Husband
@@ -19,7 +20,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) Semantic UI, PrimeNG
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) 
 - DevOps tools such as Gitlab, JIRA, Jenkins
 - ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker), Docker swarm, Kubernetes
 - Familiar Database: SQL Server ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)&nbsp;
