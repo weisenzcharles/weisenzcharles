@@ -1,7 +1,7 @@
 
 
 ### About Me
-[![Charles Zhang](https://img.shields.io/badge/Charles-Zhang-orange?style=flat&labelColor=black&logo=github&logoColor=white)]
+[![Charles Zhang](https://img.shields.io/badge/Charles-Zhang-orange?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/weisenzcharles)
 [![Github](https://img.shields.io/badge/-GithubStats-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/weisenzcharles)
 [![Gmail](https://img.shields.io/badge/-weisenzcharles@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:weisenzcharles@gmail.com)
 
