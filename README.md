@@ -15,7 +15,7 @@
 
 
 ### My Technical Skills
-- .NET/.NET Core (C#)
+- Java,.NET/.NET Core,Python
 - Front-end frameworks such as 
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular)&nbsp;
