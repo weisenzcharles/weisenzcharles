@@ -25,7 +25,7 @@
 - ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker), Docker swarm, Kubernetes
 - Familiar Database: SQL Server ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb)&nbsp;
-![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=Redis&logoColor=336791)&nbsp; 
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=Redis)&nbsp; 
 
 
 
