@@ -21,11 +21,11 @@
 ![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) 
-- DevOps tools such as Gitlab, JIRA, Jenkins
+- DevOps tools such as Gitlab, Jenkins
 - ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker), Docker swarm, Kubernetes
 - Familiar Database: SQL Server ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp; Redis
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=Redis&logoColor=336791)&nbsp; 
 
 
 
