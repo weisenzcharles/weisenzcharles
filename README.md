@@ -13,7 +13,10 @@
 
 
 ### My Technical Skills
-- Java,.NET/.NET Core,Python
+- ![Java](https://img.shields.io/badge/-Java-brightgreen?style=flat&logo=Java&logoColor=1572B6)&nbsp;
+![Dot NET](https://img.shields.io/badge/-Dot%20NET-brightgreen?style=flat&logo=Dot%20NET&logoColor=1572B6)&nbsp;
+![Python](https://img.shields.io/badge/-Python-708069?style=flat&logo=Python&logoColor=1572B6)&nbsp;
+
 - Microservices as ![Spring](https://img.shields.io/badge/-Spring-brightgreen?style=flat&logo=Spring&logoColor=1572B6)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen?style=flat&logo=Spring%20Boot&logoColor=1572B6)&nbsp;
 ![Dubbo](https://img.shields.io/badge/-Dubbo-9cf?style=flat&logo=Dubbo&logoColor=9cf)&nbsp;
