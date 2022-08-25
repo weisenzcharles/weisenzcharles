@@ -1,53 +1,43 @@
 
 
 ### About Me
-[![Charles Zhang](https://img.shields.io/badge/Charles-Zhang-orange?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/weisenzcharles)
-[![Github](https://img.shields.io/badge/-GithubStats-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/weisenzcharles)
-[![Gmail](https://img.shields.io/badge/-weisenzcharles@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:weisenzcharles@gmail.com)
-
-- 💻 Full stack web developer for 10+ years
-- 😄 Father and Husband
-- 📫 You can reach me at [![Gmail](https://img.shields.io/badge/-weisenzcharles@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:weisenzcharles@gmail.com)
-
-### Primary Maintainer of Open Source Projects
 
 
-### My Technical Skills
-- ![Java](https://img.shields.io/badge/-Java-brightgreen?style=flat&logo=Java&logoColor=1572B6)&nbsp;
-![Dot NET](https://img.shields.io/badge/-Dot%20NET-brightgreen?style=flat&logo=Dot%20NET&logoColor=1572B6)&nbsp;
-![Python](https://img.shields.io/badge/-Python-708069?style=flat&logo=Python&logoColor=1572B6)&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-weisenzcharles-blue)](https://twitter.com/weisenzcharles) [![Instagram](https://img.shields.io/badge/Instagram-weisenzcharles-yellowgreen)](https://www.instagram.com/weisenzcharles/) [![Postype](https://img.shields.io/badge/Domain-weilog.net-green)](https://www.weilog.net) [![Github](https://img.shields.io/badge/GithubStats-orange?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/weisenzcharles) [![Gmail](https://img.shields.io/badge/-weisenzcharles@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:weisenzcharles@gmail.com)
 
-- Microservices as ![Spring](https://img.shields.io/badge/-Spring-brightgreen?style=flat&logo=Spring&logoColor=1572B6)&nbsp;
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen?style=flat&logo=Spring%20Boot&logoColor=1572B6)&nbsp;
-![Dubbo](https://img.shields.io/badge/-Dubbo-9cf?style=flat&logo=Dubbo&logoColor=9cf)&nbsp;
-- Front-end frameworks such as 
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) 
-- DevOps tools such as Gitlab, Jenkins
-- ![Docker](https://img.shields.io/badge/-Docker-FDF5E6?style=flat&logo=docker), Docker swarm, Kubernetes
-- Familiar Database: SQL Server ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb)&nbsp;
-![Redis](https://img.shields.io/badge/-Redis-DDA0DD?style=flat&logo=Redis)&nbsp; 
+Full stack web developer for 10+ years
 
+[![Charles Zhang's github stats](https://github-readme-stats.vercel.app/api?username=weisenzcharles&show_icons=true&hide_border=true)](https://github.com/weisenzcharles)
 
-![Visit Stats](https://komarev.com/ghpvc/?username=weisenzcharles&color=blue&style=flat-square&label=Visit+Stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weisenzcharles&hide_border=true&layout=compact)](https://github.com/weisenzcharles)
 
+## Contacts
+- E-Mails
+  - Main address: `master@weilog.net`
+  - Sub address: `weisenzcharles@gmail.com`
+- Blog
+  - `https://www.weilog.net`
+- Homepage
+  - `https://www.weilog.net`
 
-<!--
-### Hi there 👋
-**weisenzcharles/weisenzcharles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Personal Projects
+- [MagicFile](https://github.com/weisenzcharles/MagicFile)
+- [Weilog](https://github.com/weisenzcharles/weilog)
+- [Media Browser](https://github.com/weisenzcharles/media-browser)
+- [Uow](https://github.com/weisenzcharles/Uow)
+- [Weiadmin](https://github.com/weisenzcharles/weiadmin)
 
-Here are some ideas to get you started:
+## Personal Development Environments
+- `JetBrains IDEA`
+- `Visual Studio 2022`
+- `Visual Studio Code`
+- `Sublime Text`
+- `Vim`
+- `Git`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=weisenzcharles)](https://github.com/weisenzcharles)
+## Commonly Used Programming Languages
+- `Java`
+- `C#`
+- `Python`
+- `Golang`
+
