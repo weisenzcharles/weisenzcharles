@@ -13,8 +13,8 @@ Full stack web developer for 10+ years
 
 ## Contacts
 - E-Mails
-  - Main address: `master@weilog.net`
-  - Sub address: `weisenzcharles@gmail.com`
+  - Main address: [![Mail](https://img.shields.io/badge/-master@weilog.net-blue?style=flat&logo=Gmail&logoColor=white)](mailto:master@weilog.net)
+  - Sub address: [![Gmail](https://img.shields.io/badge/-weisenzcharles@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:weisenzcharles@gmail.com)
 - Blog
   - `https://www.weilog.net`
 - Homepage
