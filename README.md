@@ -3,7 +3,7 @@
 ### About Me
 
 
-[![Twitter](https://img.shields.io/badge/Twitter-weisenzcharles-blue)](https://twitter.com/weisenzcharles) [![Instagram](https://img.shields.io/badge/Instagram-weisenzcharles-yellowgreen)](https://www.instagram.com/weisenzcharles/) [![Postype](https://img.shields.io/badge/Domain-weilog.net-green)](https://www.weilog.net) [![Github](https://img.shields.io/badge/GithubStats-orange?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/weisenzcharles) [![Gmail](https://img.shields.io/badge/-weisenzcharles@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:weisenzcharles@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-weisenzcharles-blue)](https://twitter.com/weisenzcharles) [![Instagram](https://img.shields.io/badge/Instagram-weisenzcharles-yellowgreen)](https://www.instagram.com/weisenzcharles/) [![Postype](https://img.shields.io/badge/Domain-weilog.net-green)](http://www.weilog.net) [![Github](https://img.shields.io/badge/GithubStats-orange?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/weisenzcharles) [![Gmail](https://img.shields.io/badge/-weisenzcharles@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:weisenzcharles@gmail.com)
 
 Full stack web developer for 10+ years
 
@@ -16,9 +16,9 @@ Full stack web developer for 10+ years
   - Main address: [![Mail](https://img.shields.io/badge/-master@weilog.net-blue?style=flat&logo=Gmail&logoColor=white)](mailto:master@weilog.net)
   - Sub address: [![Gmail](https://img.shields.io/badge/-weisenzcharles@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:weisenzcharles@gmail.com)
 - Blog
-  - `https://www.weilog.net`
+  - `http://www.weilog.net`
 - Homepage
-  - `https://www.weilog.net`
+  - `http://www.weilog.net`
 
 ## Personal Projects
 - [MagicFile](https://github.com/weisenzcharles/MagicFile)
