@@ -7,10 +7,6 @@
 
 Full stack web developer for 10+ years
 
-[![Charles Zhang's github stats](https://github-readme-stats.vercel.app/api?username=weisenzcharles&show_icons=true&hide_border=true)](https://github.com/weisenzcharles)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weisenzcharles&hide_border=true&layout=compact)](https://github.com/weisenzcharles)
-
 ## Contacts
 - E-Mails
   - Main address: [![Mail](https://img.shields.io/badge/-master@weilog.net-blue?style=flat&logo=Gmail&logoColor=white)](mailto:master@weilog.net)
